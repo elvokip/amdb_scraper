@@ -1,3 +1,7 @@
+# SPDX-License-Identifier: MIT
+# (C) 2024 The Elvis Kipkosgei Mwogoi
+# (C)  Israel Dryer tutorials
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
